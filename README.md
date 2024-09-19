@@ -9,3 +9,6 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 sudo reboot
 ```
+
+
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
